@@ -1,7 +1,7 @@
 ## Netflix Clone App
 
 **Description:**
-This project is a Netflix clone app built using React with Redux Thunk for state management. It leverages various libraries and tools such as React Router DOM for navigation, Tailwind CSS for styling, Axios for making HTTP requests, and React Icons for icons. The app fetches popular movies and genres from an API and displays them in a user-friendly interface resembling Netflix.
+This project is a Netflix clone app built using React with Redux Thunk for state management. It leverages various libraries and tools such as React Router DOM for navigation, Tailwind CSS for styling, Axios for making HTTP requests, and React Icons for icons. The app fetches popular movies and genres from the TMDB (The Movie Database) API and displays them in a user-friendly interface resembling Netflix.
 
 **GIF:**
 
